@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBATwitterTrendsCross", "NBATwitterTrendsCross\NBATwitterTrendsCross.csproj", "{EA112486-472B-4CD3-8DD4-6254FC544E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBATwitterTrendsCross.Droid", "Droid\NBATwitterTrendsCross.Droid.csproj", "{14CBB8DF-DCC5-41FD-B063-94AA65B25E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBATwitterTrendsCross.UITests", "UITests\NBATwitterTrendsCross.UITests.csproj", "{F5CDB80F-5048-48BB-B1E7-1D24279D8E11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14CBB8DF-DCC5-41FD-B063-94AA65B25E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CBB8DF-DCC5-41FD-B063-94AA65B25E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CBB8DF-DCC5-41FD-B063-94AA65B25E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CBB8DF-DCC5-41FD-B063-94AA65B25E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA112486-472B-4CD3-8DD4-6254FC544E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA112486-472B-4CD3-8DD4-6254FC544E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA112486-472B-4CD3-8DD4-6254FC544E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA112486-472B-4CD3-8DD4-6254FC544E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CDB80F-5048-48BB-B1E7-1D24279D8E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CDB80F-5048-48BB-B1E7-1D24279D8E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CDB80F-5048-48BB-B1E7-1D24279D8E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CDB80F-5048-48BB-B1E7-1D24279D8E11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
